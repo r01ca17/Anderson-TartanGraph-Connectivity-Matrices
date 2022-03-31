@@ -1,11 +1,14 @@
 # Anderson-TartanGraph-Connectivity-Matrices
-The supplementary material the manuscript Anderson et al. Contains the raw data from in-silico experiments and the R code used to analyse data and produce the graphs presented in Anderson et al.
+The supplementary material for the manuscript by Anderson et al. Contains the raw data from in-silico experiments and the R code used to analyse data and produce the graphs presented in Anderson et al.
 
 UPDATED: 31/03/2022
 
-TARTANGRAPH_CODE zipped folder added as part of revisions made to Anderson et al. manuscript. Contains new raw and collated data produced to calculate a new response variable of TartanGraph connectivity as suggested by a reviewer.
+TARTANGRAPH_CODE zipped folder added as part of revisions made to Anderson et al. manuscript. Contains collated data produced to calculate a new response variable of TartanGraph connectivity as suggested by a reviewer.
 
 The Updated R script enclosed demonstrates how raw data was collated into summary files calculating mean Traversal Probabilities under different treatments and how to produce the four figures in the revised Anderson et al. manuscript. 
+
+Note: The raw data is NOT included due to size constraints. As such it is not possible at this time to run the data collation part of the code to convert RangeShifter outputs in collated data. 
+Even so, it should still be demionstrable from the text of the R script how raw data was intially read into RStudio and compiled in order to create the excel files used to build the four figures that appear in the revided manuscript for Anderson et al.
 
 
 
