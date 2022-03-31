@@ -12,7 +12,7 @@ The Updated R script enclosed demonstrates how raw data was collated into summar
 
 
 
-OLD MATERIAL: AUGUST 2021 - 
+OUTDATED MATERIAL: Anderson_Supp_Material.zip
 
 Zipped folder contains the following:
 
