@@ -1,5 +1,5 @@
 # Anderson-TartanGraph-Connectivity-Matrices
-The supplementary material the manuscript Anderson et al. Contains the raw data from in-silico experiments and the R code used to analyse data and produce the graphs presented in Anderson et al. and 
+The supplementary material the manuscript Anderson et al. Contains the raw data from in-silico experiments and the R code used to analyse data and produce the graphs presented in Anderson et al.
 
 Zipped folder contains the following:
 
