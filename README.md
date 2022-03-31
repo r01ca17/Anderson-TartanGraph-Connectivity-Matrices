@@ -1,6 +1,19 @@
 # Anderson-TartanGraph-Connectivity-Matrices
 The supplementary material the manuscript Anderson et al. Contains the raw data from in-silico experiments and the R code used to analyse data and produce the graphs presented in Anderson et al.
 
+UPDATED: 31/03/2022
+
+TARTANGRAPH_CODE zipped folder added as part of revisions made to Anderson et al. manuscript. Contains new raw and collated data produced to calculate a new response variable of TartanGraph connectivity as suggested by a reviewer.
+
+The Updated R script enclosed demonstrates how raw data was collated into summary files calculating mean Traversal Probabilities under different treatments and how to produce the four figures in the revised Anderson et al. manuscript. 
+
+
+
+
+
+
+OLD MATERIAL: AUGUST 2021 - 
+
 Zipped folder contains the following:
 
 SMS_Inputs - TartanGraphs: The inputs for the RangeShifter dispersal model; the text files encoding the structure of stylised TartanGraph landscapes as well as a word file with pictures of said landscapes.
