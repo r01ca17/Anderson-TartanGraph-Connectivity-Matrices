@@ -8,9 +8,7 @@ TARTANGRAPH_CODE zipped folder added as part of revisions made to Anderson et al
 The Updated R script enclosed demonstrates how raw data was collated into summary files calculating mean Traversal Probabilities under different treatments and how to produce the four figures in the revised Anderson et al. manuscript. 
 
 Note: The raw data is NOT included due to size constraints. As such it is not possible at this time to run the data collation part of the code to convert RangeShifter outputs into collated data. 
-Even so, it should still be demonstrable from the text of the R script how raw data was intially read into RStudio and compiled in order to create the three excel files in folder "Traversal Probability Results".
-
-Using the files in "traversal Probability Results" is should be possible to run parts 2 onward in the R script to build the four figures that appear in Anderson et al (2022).
+Even so, it should still be demonstrable from the text of the R script how raw data was intially read into RStudio and compiled in order to create the three excel files in folder "Traversal Probability Results". Using the files in "traversal Probability Results" it should be possible to run parts 2 onward in the R script to build the four figures that appear in Anderson et al (2022).
 
 
 
